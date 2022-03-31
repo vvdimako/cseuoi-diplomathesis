@@ -1,13 +1,13 @@
-# thesis-template-uoi
+# cseuoi-diplomathesis
 
-This is an **unofficial** XeLaTeX template for Diploma theses authored by undergraduate students at
+This is an **unofficial** XeLaTeX template for Diploma theses to be authored by undergraduate students at
 the [Department of Computer Science and Engineering](https://www.cse.uoi.gr), [School of Engineering](https://engineering.uoi.gr/), 
 [University of Ioannina](https://www.uoi.gr/), in partial fulfillment of the requirements for the Diploma of Engineering degree. 
 
 
 ## Modification Notes
- * This template was based on the [official template for Master's theses and Ph.D. dissertations](https://github.com/vvdimako/cseuoi-thesis) used at the same department.
- * Initial modifications made by [George Z. Zachos](https://gzachos.com) on January 2021.
+ * This template is based on the [official template for Master's theses and Ph.D. dissertations](https://github.com/vvdimako/cseuoi-thesis) used at the same department.
+ * Initial modifications made by [George Z. Zachos](ct) on January 2021.
 
 
 ## Sample PDF files
